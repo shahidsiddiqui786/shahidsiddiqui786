@@ -3,7 +3,7 @@
 
 
 🔭 I’m currently working on web designing UI/UX and web development🔭
-🌱 I’m currently learning react and backend , database integration with frontend to  create amazing website🌱
+🌱 I’m currently learning react native  to  create amazing website and mobile app🌱
 👯 I’m looking to collaborate in some of project built with typescript/javascript👯
 ⚡ Driving power is Interest that never die..⚡
 
