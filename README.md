@@ -2,8 +2,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
    This is shahid , a student, web developer and coder.
-🔭 I’m currently working on web designing UI/UX and web development🔭
-🌱 I’m currently learning react native  to  create amazing website and mobile app🌱
+🔭 I’m currently working on web app development with reactJs.🔭
+🌱 so far ,I have learnt Html,css,javascript,bootstrap,java,c,c++ languages.Skills=> FrontEnd layout design & dev.,responsive web design & dev., backend scripting expo-cli app dev.,and some more :_)🌱
 👯 I’m looking to collaborate in some of project built with typescript/javascript👯
 ⚡ Driving power is Interest that never die..⚡
 
