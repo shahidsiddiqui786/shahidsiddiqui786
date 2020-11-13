@@ -18,7 +18,5 @@
 
    This is shahid , a student, web developer and coder.
 🔭 I’m currently working on web app development with reactJs.🔭
-🌱 so far ,I have learnt Html,css,javascript,bootstrap,java,c,c++ languages.Skills=> FrontEnd layout design & dev.,responsive web design & dev., backend scripting expo-cli app dev.,and some more :_)🌱
-👯 I’m looking to collaborate in some of project built with typescript/javascript👯
-⚡ Driving power is Interest that never die..⚡
-
+🌱 so far ,I have learnt Html,css,javascript,bootstrap,java,c,c++ languages.Skills=> FrontEnd layout design & dev.,responsive web design & devevlopment, expo-cli app development,and some more :)🌱
+ I’m looking to collaborate in open-source projects.
