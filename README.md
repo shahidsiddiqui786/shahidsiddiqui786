@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-<a href="https://codepen.io/shahid_Ali_siddiqui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Shahid__Siddiqui" height="30" width="30" /></a>
-<a href="https://dev.to/shahidalisiddiqui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Shahid__Siddiqui" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/shahid-siddiqui-a49397194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shahid__Siddiqui" height="30" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Shahid__Siddiqui" height="30" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Shahid__Siddiqui" height="30" width="30" /></a>
-<a href="https://www.hackerearth.com/@shahid_siddiqui92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="Shahid__Siddiqui" height="30" width="30" /></a>
+<a href="https://codepen.io/shahid_Ali_siddiqui" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Shahid__Siddiqui" height="50" width="50" /></a>
+<a href="https://dev.to/shahidalisiddiqui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Shahid__Siddiqui" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/shahid-siddiqui-a49397194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shahid__Siddiqui" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Shahid__Siddiqui" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Shahid__Siddiqui" height="50" width="50" /></a>
+<a href="https://www.hackerearth.com/@shahid_siddiqui92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="Shahid__Siddiqui" height="50" width="50" /></a>
 </p>
 
  </p>
