@@ -17,7 +17,7 @@
     
 
    This is shahid ,a web developer and a coder.
-## I’m currently working on web app development with reactJs.
+## A passioante full stack web developer, stack(MERN)
 ## Familiar/used Programming languages by me :- c,c++,javascript,python,java.
 ## Other Tech languages:- Html,css,Sql,scss,matlab.
 ## Familiar/used Tech by me :- NodeJs,ReactJs,Express,Mongodb.
