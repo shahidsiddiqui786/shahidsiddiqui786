@@ -33,10 +33,10 @@
 
 
 
-<h2>Stats 📊</h2>
+<!-- <h2>Stats 📊</h2>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=shahidsiddiqui786&show_icons=true&theme=cobalt&count_private=true&hide=stars" alt="github stats"/>
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidsiddiqui786&layout=compact&theme=cobalt" alt="github stats"/>
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidsiddiqui786&layout=compact&theme=cobalt" alt="github stats"/> -->
 <!-- <img align="centre" height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidsiddiqui786&theme=cobalt" alt="github stats"/> -->
 
 
