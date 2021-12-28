@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
-<a href="https://shahid92.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Shahid__Siddiqui-blue?style=for-the-badge&logo=appveyor" alt="Shahid__Siddiqui" /></a>
+<a href="https://shahid92.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Shahid-blue?style=for-the-badge&logo=appveyor" alt="Shahid" /></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.hackerearth.com/@shahid_s92" target="_blank"><img alt="Hackerearth" src="https://img.shields.io/badge/Hackerearth-shahid_siddiqui92-blue?style=flat&logo=hackerearth"></a> 
+<a href="https://www.hackerearth.com/@shahid_s92" target="_blank"><img alt="Hackerearth" src="https://img.shields.io/badge/Hackerearth-shahid_s92-blue?style=flat&logo=hackerearth"></a> 
 <a href="https://leetcode.com/shahid_92/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-shahid_92-blue?style=flat&logo=leetcode"></a> 
 <a href="https://www.codechef.com/users/shahid_92" target="_blank" ><img alt="Codechef" src="https://img.shields.io/badge/Codechef-shahid_92-blue?style=flat&logo=codechef"></a>
 <a href="https://codeforces.com/profile/shahid_92" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/CodeForces-shahid_92-blue?style=flat&logo=codeforces"></a> 
