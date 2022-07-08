@@ -15,7 +15,7 @@
 <a href="https://leetcode.com/shahid_92/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-shahid_92-blue?style=flat&logo=leetcode"></a> 
 <a href="https://www.codechef.com/users/shahid_92" target="_blank" ><img alt="Codechef" src="https://img.shields.io/badge/Codechef-shahid_92-blue?style=flat&logo=codechef"></a>
 <a href="https://codeforces.com/profile/shahid_92" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/CodeForces-shahid_92-blue?style=flat&logo=codeforces"></a> 
-<a href="https://www.codechef.com/users/shahid_92" target="_blank" ><img alt="GFG" src="https://img.shields.io/badge/GeekForGeeks-shahid_92-blue?style=flat&logo=gfg"></a>
+<a href="https://auth.geeksforgeeks.org/user/shahid92/practice/" target="_blank" ><img alt="GFG" src="https://img.shields.io/badge/GeekForGeeks-shahid_92-blue?style=flat&logo=gfg"></a>
 </p>
 
 
