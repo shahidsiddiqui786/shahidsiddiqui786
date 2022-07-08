@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 <p align="center">
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 <a href="https://shahid92.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Shahid-blue?style=for-the-badge&logo=appveyor" alt="Shahid" /></a>
@@ -21,7 +21,7 @@
 
   
 
-   This is shahid ,a web developer and a coder .
+   Hi there , This is shahid a web developer and a coder .
 -  I’m currently practicing data structures and algorithms regularly.
 -  I'm full stack web devloper, mainly used MERN stack to build awesome websites.
 -  Tech , I use NodeJs,ReactJs,Express,Mongodb,EJS
