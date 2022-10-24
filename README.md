@@ -43,12 +43,25 @@
  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 
+# Stats 📊
 
-<h2>Stats 📊</h2>
+## GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=shahidsiddiqui786&show_icons=true&theme=cobalt&count_private=true&hide=stars" alt="github stats"/>
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidsiddiqui786&layout=compact&theme=cobalt" alt="github stats"/> 
-<img align="centre" height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidsiddiqui786&theme=cobalt" alt="github stats"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidsiddiqui786&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true&hide=stars" alt="shahid github stats" /></p>
 
+## GitHub Streak
 
-[![shahid's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahidsiddiqui786&theme=react-dark)]
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shahidsiddiqui786&theme=cobalt&date_format=j%20M%5B%20Y%5D" alt="shahid github stats" /></p>
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidsiddiqui786&langs_count=8&theme=cobalt&layout=compact)
+
+## Leetcode Stats
+
+![LeetCode Stats](https://leetcode.card.workers.dev/shahid_92?theme=dark)
+
+## Github Activity
+
+![shahid's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahidsiddiqui786&theme=react-dark)
+
