@@ -1,10 +1,11 @@
-
 <p align="center">
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 <a href="https://shahid92.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Shahid-blue?style=for-the-badge&logo=appveyor" alt="Shahid" /></a>
 </p>
 
 <p align="center">
+<a href="https://drive.google.com/file/d/1YWtOeIpI7mkmsb2nadLMe5AL-dNj9VHX/view" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-blue?style=flat&logo=files"></a>
+<a href="https://resume.github.io/?shahidsiddiqui786" target="_blank"><img alt="Github Resume" src="https://img.shields.io/badge/Github-Resume-blue?style=flat&logo=files"></a> 
 <a href="https://www.linkedin.com/in/shahid-a49397194/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shahid-blue?style=flat&logo=linkedin"></a> 
 <a href="https://www.facebook.com/profile.php?id=100015340308964" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/facebook-shahid-blue?style=flat&logo=facebook"></a> 
 <a href="https://auth.geeksforgeeks.org/user/shahid92/practice/" target="_blank" ><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shahid-blue?style=flat&logo=instagram"></a>
