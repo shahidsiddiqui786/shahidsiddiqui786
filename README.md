@@ -39,10 +39,10 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=shahidsiddiqui786&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shahidsiddiqui786&theme=tokyonight&hide_border=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shahidsiddiqui786&theme=tokyonight&line_height=27">
 </p>
 <p align= "center">
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=shahidsiddiqui786&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=shahidsiddiqui786&theme=tokyonight&include_all_commits=true&line_height=27">
     <img src = "https://leetcode.card.workers.dev/shahid_92?theme=dark&font=milonga">
 </p>
 
