@@ -19,7 +19,7 @@
 #### ![](https://img.shields.io/badge/ReactJs-blue) ![](https://img.shields.io/badge/NodeJs-red) ![](https://img.shields.io/badge/Express-purple)  ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-purple) ![](https://img.shields.io/badge/EJS-blue) ![](https://img.shields.io/badge/Heroku-red) ![](https://img.shields.io/badge/firebase-blue) ![](https://img.shields.io/badge/Bootstrap-red)  ![](https://img.shields.io/badge/Sass-blue) ![](https://img.shields.io/badge/Javascript-purple) ![](https://img.shields.io/badge/Html-blue) ![](https://img.shields.io/badge/Css-red) ![](https://img.shields.io/badge/C-blue) ![](https://img.shields.io/badge/C++-blue) 
 
 ## Resume
-<a href="https://shahid92.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-purple?style=for-the-badge&logo=appveyor" alt="Shahid" /></a>
+<a href="https://shahid92.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-purple?style=flat&logo=appveyor" alt="Shahid" /></a>
 <a href="https://drive.google.com/file/d/1YWtOeIpI7mkmsb2nadLMe5AL-dNj9VHX/view" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-blue?style=flat&logo=files"></a>
 <a href="https://resume.github.io/?shahidsiddiqui786" target="_blank"><img alt="Github Resume" src="https://img.shields.io/badge/Github-Resume-blue?style=flat&logo=files"></a> 
 
@@ -28,7 +28,7 @@
 <a href="https://www.facebook.com/profile.php?id=100015340308964" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/facebook-shahid-blue?style=flat&logo=facebook"></a> 
 <a href="https://auth.geeksforgeeks.org/user/shahid92/practice/" target="_blank" ><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shahid-blue?style=flat&logo=instagram"></a>
 
-## Coding Profile
+## Coding Profiles
 <a href="https://www.hackerearth.com/@shahid_siddiqui92" target="_blank"><img alt="Hackerearth" src="https://img.shields.io/badge/Hackerearth-shahid_siddiqui92-blue?style=flat&logo=hackerearth"></a> 
 <a href="https://leetcode.com/shahid_92/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-shahid_92-blue?style=flat&logo=leetcode"></a> 
 <a href="https://www.codechef.com/users/shahid_92" target="_blank" ><img alt="Codechef" src="https://img.shields.io/badge/Codechef-shahid_92-blue?style=flat&logo=codechef"></a>
